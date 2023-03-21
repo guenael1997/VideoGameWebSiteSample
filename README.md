@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # VideoGameWebSiteSample
 A sample of video game's web site made for showing the game
 
-This website is already online a this link : https://videogametemplate.netlify.app/
+This website is already online on the following link : https://videogametemplate.netlify.app/
