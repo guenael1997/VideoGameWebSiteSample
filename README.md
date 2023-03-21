@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# VideoGameWebSiteSample
+# Video Game Web Site Sample
 A sample of video game's web site made for showing the game
 
 This website is already online on the following link : https://videogametemplate.netlify.app/
