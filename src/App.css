@@ -1,0 +1,282 @@
+.container_2 {
+  background-color: rgb(40, 0, 43);
+  background: linear-gradient(180deg, rgb(40, 0, 43) 0%, rgb(74, 0, 77) 40%);
+}
+
+.container_3 {
+  background-color: rgb(120, 122, 0);
+  background: linear-gradient(180deg, rgb(74, 0, 73) 0%, rgb(120,122,0) 40%);
+}
+
+.container_4 {
+  background-color: rgb(0, 45, 104);
+  background: linear-gradient(180deg, rgb(120, 122, 0) 0%, rgb(0,45,104) 40%);
+}
+
+.container_5 {
+  background-color: rgb(53, 39, 0);
+  background: linear-gradient(180deg, rgb(0, 45, 104) 0%, rgb(53,39,0) 40%);
+}
+
+.container_6 {
+  background-color: black ;
+  background: linear-gradient(180deg, rgb(53, 39, 0) 0%, black 40%);
+  padding: 20%;
+}
+
+
+
+@media (min-height:1000px)  {
+
+    .imgHeader {
+      width: 70px;
+    }
+
+    .container_1 {
+      background: rgb(0,0,0);
+      background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgb(40, 0, 43) 100%);
+      min-height: 800px;
+    }
+
+    .button0:hover {
+      animation: pulse;
+      animation-duration:3s;
+      animation-iteration-count: infinite;
+      cursor: pointer;
+    }
+
+    .bi-twitter:hover {
+      color: rgb(0, 161, 224);
+    }
+
+    .bi-instagram:hover {
+      color: rgb(224, 190, 0);
+    }
+
+    .bi-youtube:hover {
+      color: rgb(255, 49, 49);
+    }
+
+    .bi-discord:hover {
+      color: rgb(190, 141, 255);
+    }
+
+    .button0:active {
+      animation: pulse;
+      animation-duration: 1s;
+    }
+
+    .title1 h1 {
+    font-size: 1500%;
+    background: rgb(239,0,255);
+    background: linear-gradient(180deg, rgb(229, 144, 255) 0%, rgb(129, 0, 168) 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    
+  }
+
+  .title1 h2 {
+    font-size: 350%;
+  }
+
+  .title2 h1 {
+    font-size: 2000%;
+    background: rgb(239,0,255);
+    background: linear-gradient(180deg, rgba(239,0,255,1) 0%, rgba(99,0,106,1) 80%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+  }
+
+  .title3 h1 {
+    font-size: 2000%;
+    background: rgb(239,0,255);
+    background: linear-gradient(180deg, rgb(229, 255, 0) 0%, rgb(103, 110, 0) 80%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+  }
+
+  .title4 h1 {
+    font-size: 2000%;
+    background: rgb(0, 183, 255);
+    background: linear-gradient(180deg, rgb(0, 183, 255) 0%, rgb(0, 96, 134) 80%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+  }
+
+  .title5 h1 {
+    font-size: 2000%;
+    background: rgb(255, 208, 0);
+    background: linear-gradient(180deg, rgb(255, 208, 0) 0%, rgb(129, 106, 0) 80%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+  }
+
+  .title2 h2 {
+    font-size: 350%;
+  }
+
+  .title3 h2 {
+    font-size: 350%;
+  }
+
+  .title4 h2 {
+    font-size: 350%;
+  }
+
+  .title5 h2 {
+    font-size: 350%;
+  }
+
+  .title6 h2 {
+    font-size: 150%;
+  }
+
+  .container_2 .icon {
+    background-color: rgb(110, 0, 110);
+    color:rgb(255, 0, 212)
+  }
+
+  .container_3 .icon {
+    background-color: rgb(66, 66, 0);
+    color:rgb(255, 255, 0)
+  }
+
+  .container_4 .icon {
+    background-color: rgb(0, 56, 78);
+    color:rgb(0, 183, 255)
+  }
+
+  .container_5 .icon {
+    background-color: rgb(83, 63, 0);
+    color:rgb(255, 208, 70)
+  }
+
+  .container_6 h2 {
+    font-size: 400%;
+  }
+
+  .windows {
+    background: rgb(141,0,255);
+    background: linear-gradient(172deg, rgba(141,0,255,1) 33%, rgba(0,245,255,1) 100%);
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+
+  .windows h3 {
+    font-size: 250%;
+  }
+}
+
+@media (max-height:1000px)  {
+
+  .button0:active {
+    animation: pulse;
+    animation-duration: 1s;
+  }
+
+  .container_1 {
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgb(40, 0, 43) 100%);
+    min-height: 700px;
+  }
+
+  .title1 h1 {
+  font-size: 500%;
+  background: rgb(239,0,255);
+  background: linear-gradient(180deg, rgb(229, 144, 255) 0%, rgb(129, 0, 168) 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  
+}
+
+.title1 h2 {
+  font-size: 250%;
+}
+
+.title2 h1 {
+  font-size: 500%;
+  background: rgb(239,0,255);
+  background: linear-gradient(180deg, rgba(239,0,255,1) 0%, rgba(99,0,106,1) 80%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+
+.title3 h1 {
+  font-size: 500%;
+  background: rgb(239,0,255);
+  background: linear-gradient(180deg, rgb(229, 255, 0) 0%, rgb(103, 110, 0) 80%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+
+.title4 h1 {
+  font-size: 500%;
+  background: rgb(0, 183, 255);
+  background: linear-gradient(180deg, rgb(0, 183, 255) 0%, rgb(0, 96, 134) 80%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+
+.title5 h1 {
+  font-size: 500%;
+  background: rgb(255, 208, 0);
+  background: linear-gradient(180deg, rgb(255, 208, 0) 0%, rgb(129, 106, 0) 80%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+
+.title2 h2 {
+  font-size: 200%;
+}
+
+.title3 h2 {
+  font-size: 200%;
+}
+
+.title4 h2 {
+  font-size: 350%;
+}
+
+.title5 h2 {
+  font-size: 200%;
+}
+
+.title6 {
+  font-size: 70%;
+}
+
+.container_2 .icon {
+  background-color: rgb(110, 0, 110);
+  color:rgb(255, 0, 212)
+}
+
+.container_3 .icon {
+  background-color: rgb(66, 66, 0);
+  color:rgb(255, 255, 0)
+}
+
+.container_4 .icon {
+  background-color: rgb(0, 56, 78);
+  color:rgb(0, 183, 255)
+}
+
+.container_5 .icon {
+  background-color: rgb(83, 63, 0);
+  color:rgb(255, 208, 70)
+}
+
+.container_6 h2 {
+  font-size: 400%;
+}
+
+.windows {
+  background: rgb(141,0,255);
+  background: linear-gradient(172deg, rgba(141,0,255,1) 33%, rgba(0,245,255,1) 100%);
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.windows h3 {
+  font-size: 250%;
+}
+}
